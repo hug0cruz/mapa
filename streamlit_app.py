@@ -13,7 +13,7 @@ from folium.plugins import MarkerCluster
 
 st.set_page_config(page_title="Mapa Interativo e Field Tools", layout="wide")
 
-st.title("🗺️ Sistema Integrado de Mapas")
+st.title("🗺️ FLD ZONES")
 
 tab1, tab2 = st.tabs(["🗺️ Zonas e Distritos", "📍 Pesquisa de Sites"])
 
