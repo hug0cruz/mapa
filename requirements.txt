@@ -1,1 +1,10 @@
 streamlit
+geopandas
+folium
+streamlit-folium
+pandas
+openpyxl
+geopy
+shapely
+streamlit-geolocation
+simplekml
