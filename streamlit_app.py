@@ -144,7 +144,7 @@ with tab1:
                 mime="application/vnd.google-earth.kmz"
             )
 
-        st.subheader("🌍 Mapa Interativo por Zona")
+        st.subheader("🌍 Mapa ")
         st_folium(m, use_container_width=True, height=600)
 
     except Exception as e:
